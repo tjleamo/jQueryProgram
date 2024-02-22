@@ -40,3 +40,6 @@ header p {
 .clear {
     clear: both;
 }
+.card {
+    display: inline-block;
+}
